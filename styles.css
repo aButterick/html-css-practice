@@ -1,0 +1,28 @@
+body{
+    max-width: 600px;
+    text-align: left;
+    padding: 40 40;
+    margin-left: 40px;
+    background-color: rgba(216, 112, 147, 0.247);
+}
+
+
+h1{
+    color: red;
+    font-family: 'Raleway', sans serif;
+    font-size: 36px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h3{
+    color: darkred;
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+}
+
+p{
+    color: red;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
